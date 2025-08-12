@@ -26,9 +26,12 @@ The aim is to ensure **security**, **trust**, and **accountability** in crowdfun
 * **Time Limits**: Set deadlines for funding rounds.
 * **Detailed Tracking**: Record individual contributions for public viewing.
 * **Milestone-Based Payments**: Release funds in stages based on project progress.
+  
 
 ---
 
 ### **5. Contract Address**
+ST1QRYZ9C8MXET4C938ZC018YQMMBXCD8KVRWVDD4.simpleCroudfunding
 
-`SP1234EXAMPLECROWDFUNDINGCONTRACTADDRESS`
+<img width="1478" height="971" alt="image" src="https://github.com/user-attachments/assets/08b586e7-311a-4fd7-b68a-854b668ebbbc" />
+
